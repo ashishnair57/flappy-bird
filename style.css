@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #606060;
+  }
+  
+  canvas {
+    background: transparent;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  
